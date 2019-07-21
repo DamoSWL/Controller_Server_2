@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config>
+<!-- TemperatureIP为环境主机IP -->
+    <IP TemperatureIP="127.0.0.1"/>
+</config>

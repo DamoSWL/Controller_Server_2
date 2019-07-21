@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config>
+<!-- AirControllerIP是空调控制器IP  HostIP是java端IP -->
+    <IP AirControllerIP="127.0.0.1" HostIP="127.0.0.1"/>
+</config>
